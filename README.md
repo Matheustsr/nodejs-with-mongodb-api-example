@@ -1,6 +1,5 @@
 ## Node.js with MongoDB Example
 
-<img src="https://i.imgur.com/V6k9QVB.png" alt="Swagger Page of that application" title="Swagger Page of that application"/>
 
 ### Requirements
 
