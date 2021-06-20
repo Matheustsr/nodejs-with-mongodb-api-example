@@ -24,12 +24,12 @@
   },
   "homepage": "https://github.com/ErickWendel/nodejs-with-mongodb-api-example#readme",
   "devDependencies": {
-    "concurrently": "^4.1.1",
-    "nodemon": "1.19.1",
+    "concurrently": "^6.2.0",
+    "nodemon": "^2.0.7",
     "typescript": "^3.7.3"
   },
   "dependencies": {
-    "@hapi/hapi": "18.3.1",
+    "@hapi/hapi": "^20.1.4",
     "@hapi/inert": "5.2.1",
     "@hapi/joi": "15.1.0",
     "@hapi/vision": "5.5.2",
